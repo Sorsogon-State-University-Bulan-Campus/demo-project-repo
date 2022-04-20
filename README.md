@@ -19,8 +19,8 @@ Answer 2
 
 ## References
 
-* [Source 1](https://github.com/juandelacruz)
-* [Source 2](https://github.com/anthonygacis)
+* 🎈 [Source 1](https://github.com/juandelacruz)
+* 🎈 [Source 2](https://github.com/anthonygacis)
 
 ## Special Thanks
 
