@@ -14,8 +14,8 @@ Answer 2
 
 ## Authors
 
-* [Juan Dela Cruz (@juandelacruz)](https://github.com/juandelacruz)
-* [Juan Dela Cruz (@juandelacruz)](https://github.com/anthonygacis)
+* 🚹 [Juan Dela Cruz (@juandelacruz)](https://github.com/juandelacruz)
+* 🚹 [Juan Dela Cruz (@juandelacruz)](https://github.com/anthonygacis)
 
 ## References
 
